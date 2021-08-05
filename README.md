@@ -1,2 +1,1 @@
-# validadorCPF
- validador de CPF
+# gama-no-javascript-basico
