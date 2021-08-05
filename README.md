@@ -1,4 +1,4 @@
 # gama-no-javascript-basico
 
 
-Exercicio relaizado para fixação do conteudo de javascript!
+Exercicio realizado para fixação do conteúdo de javascript!
